@@ -1,3 +1,6 @@
+本fork用于自行打包，仅会添加或修改主仓库还未来得及做或者暂时不适合在主仓库做，但是本人自己有需要的功能
+目前修改功能如下：
+- 暂无
 <div align="center">
     <img width="200" height="200" src="https://github.com/orz12/PiliPalaX/blob/main/assets/images/logo/logo_android.png">
 </div>
